@@ -4547,7 +4547,7 @@ input[type=button].btn-block {
    width: 100%;
    padding: 1em 0;
    color: #302821;
-   font-size: 1.15rem;
+   font-size: 1rem;
    font-weight: 400;
    border: none;
    background: none;
@@ -4563,7 +4563,7 @@ input[type=button].btn-block {
    border: 1px solid #ffa539;
 }
  .accordion button .accordion-title {
-   padding: 1em 1.5em 1em 0;
+   padding: 1em 2em 1em 0;
 }
  .accordion button .icon {
    display: inline-block;
@@ -4603,7 +4603,7 @@ input[type=button].btn-block {
 }
  .accordion button[aria-expanded='true'] + .accordion-content {
    opacity: 1;
-   max-height: 9em;
+   max-height: 15em;
    transition: all 200ms linear;
    will-change: opacity, max-height;
 }
