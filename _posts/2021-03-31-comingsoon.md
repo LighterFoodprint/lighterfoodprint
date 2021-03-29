@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Coming Soon"
-date:   2021-03-31 20:10:01 -0800
+date:   2021-04-01 20:10:01 -0800
 categories: jekyll update
 image: 000-Coming Soon.png
 alt: lighter foodprint, blog
