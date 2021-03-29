@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Our Journey"
+date:   2021-03-17 20:10:01 -0800
+categories: jekyll update
+image: 001-Our Journey.png
+alt: lighter foodprint, blog, journey, cityhive, vancouver
+---
+
+<h2>Our Journey</h2>
+
+<h4>Lighter Foodprint's Origin Story</h4>
+<p>Although not even a year has passed since our team came together and decided on the name “Lighter Foodprint”, a lot has happened up until this point. Our project plan has changed time and time again with the discovery of new information, but our ultimate goal remains the same: to reduce the environmental impact of food consumption in our community.</p>
+<p>Before we were Lighter Foodprint, before we were even a “group”, we were individuals who cared about the environment and all ended up joining the second ever Envirolab cohortfrom a Vancouver <a href="https://cityhive.ca/innovation-labs/envirolab/envirolab-lab-2/cohort-2-projects/">local non-profit organization, CityHive</a>.</p>
+<p>Envirolab is a series of thematic labs focused on engaging the youth on urban sustainability topics and to use the various backgrounds and expertise of the participants to come up with solutions to environmental issues. Our original members, Sandy, Theo, Alyssa, Elyse, and Austin were part of the second cohort, which focused on the Climate Emergency, and during the group formation exercise, they all gravitated toward one another because of the common interest in addressing sustainability from the perspective of local food systems.</p>
+<p>From there, Lighter Foodprint was born.</p>
+<img class="img-blog d-block mx-auto" src="assets/img/blog/001-Our Journey Timeline.png" alt="lighter foodprint, blog, journy, cityhive, vancouver" />
+<h4>The Original Plan: Grocery Stores</h4>
+<p>Our initial goal was to target consumption in grocery stores since it is one of the main sources where we get our food. Our rationale was that there were millions of transactions everyday in grocery stores, affecting every food item imaginable: meat, produce, consumer packaged goods, and so on. If we were able to inform every grocery store consumer about the environmental impacts of their purchases, those millions of purchases would slowly shift away from carbon-intensive products, and move towards sustainable alternatives.</p>
+<p>So our team took a few months to learn everything we could about the dynamics of grocery stores: what products are sold? Who decides what products are placed where in a grocery store? Who are the key decision makers? What is the relationship dynamic between suppliers, distributors and grocery stores? Do they make a higher margin on more sustainable items? What kinds of consumers would be inclined to change their consumption habits?</p>
+<p>We integrated ourselves into the grocery store space, talking to as many experts in the space as possible. However, we slowly learned there were systematic barriers that made our idea difficult to execute as a small player in the industry.</p>
+<p>Distributors work with grocery stores to determine the placement and display of a product in store. Prioritization of the items for the store to promote or place in more optimal positions depend on the bargaining power of distributors. Distributors can include large Consumer Packaged Goods (CPG) brands (eg. PepsiCo, Kraft Heinz) or brokers who represent many smaller, individual brands. They facilitate deals between suppliers and grocery stores, which results in strictly determined product placement and displays. In order for our label ideas to be adopted in grocery stores, we would have to gather consensus of every stakeholder in the chain. The decision making power within a grocery store is distributed with many interests at play, making this a difficult market to shake up from a sustainability labelling perspective.</p>
+<h4>Lighter Foodprint Mark II: Restaurants</h4>
+<p>We then turned our eyes towards another influential segment in the food community of Vancouver: restaurants. Decision making in restaurants is more concentrated, and owners have full control over what goes on the menu. In addition, Vancouver’s foodie culture served as the perfect target to create environmental awareness. And so the idea pivoted to place environmental labels on restaurant menus, indicating the relative level of carbon emissions associated with the entire life cycle of each menu item. With Vancouver’s booming restaurant scene and climate-conscious population, we are now working with restaurants to increase awareness of food emissions and help customers make purchasing decisions that align with their sustainable values.</p>
+<p>Thank you again to CityHive for being such a great support and champion along the way for our work! Follow along on our journey as we work with more community partners to bring climate labels to Vancouver! Subscribe to our email newsletter or follow us on <a href="https://www.instagram.com/lighter_foodprint/">Instagram</a> and <a href="https://www.facebook.com/lighterfoodprintvancouver">Facebook!</a></p>
+<img class="img-blog d-block mx-auto" src="assets/img/blog/001-Our Journey Last Slide.png" alt="lighter foodprint, blog, journy, cityhive, vancouver" />
