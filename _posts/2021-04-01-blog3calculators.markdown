@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Carbon Calculators Compared"
-date:   2021-04-01 20:10:01 -0800
+date:   2021-04-01 00:00:00 -0800
 categories: jekyll update
 image: 003-Calculators.png
 alt: lighter foodprint, blog, food, carbon footprint, learn more
@@ -10,9 +10,9 @@ alt: lighter foodprint, blog, food, carbon footprint, learn more
 
 What is a carbon footprint? A carbon footprint is the amount of carbon dioxide and other carbon compounds emitted due to the consumption of fossil fuels by a particular person, group, etc. It is typically expressed as grams of carbon dioxide equivalent (gCO2e ). Usually we think of this in relation to the emissions emitted from the car we drive, or the heating in our homes, but greenhouse gases are emitted from many other parts in our lives as well, including food. If you’ve perused through our website you’ll have seen that food emits up to a quarter of global greenhouse gas emissions (see Figure 1). The majority of food emissions come from the farm and land-use stage, and the emissions from these vary greatly between different food types (see Figure 2). This is why choosing the types of food we eat truly matters when it comes to reducing our personal carbon footprint.
 
-<img class="img-blog d-block mx-auto" src="assets/img/blog/002-CarbonCalculator1.png" >Figure 1 from [https://ourworldindata.org/environmental-impacts-of-food](https://ourworldindata.org/environmental-impacts-of-food)
+<img class="img-blog d-block mx-auto" src="assets/img/blog/002-CarbonCalculator1.png" >Figure 1 from Hannah Ritchie and Max Roser (2020) - "Environmental impacts of food production". Published online at OurWorldInData.org. [https://ourworldindata.org/environmental-impacts-of-food](https://ourworldindata.org/environmental-impacts-of-food)
 
-<img class="img-blog d-block mx-auto" src="assets/img/blog/002-CarbonCalculator2.png"> Figure 2 from [https://ourworldindata.org/environmental-impacts-of-food](https://ourworldindata.org/environmental-impacts-of-food)
+<img class="img-blog d-block mx-auto" src="assets/img/blog/002-CarbonCalculator2.png"> Figure 2 from Hannah Ritchie and Max Roser (2020) - "Environmental impacts of food production". Published online at OurWorldInData.org. [https://ourworldindata.org/environmental-impacts-of-food](https://ourworldindata.org/environmental-impacts-of-food)
 
 Carbon calculators are a tool that help you find out the carbon footprint of your choices. Knowing this puts the impact of our daily choices into perspective, and will hopefully inspire you to find ways to reduce your personal carbon footprint.
 

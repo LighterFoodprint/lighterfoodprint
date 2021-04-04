@@ -10217,6 +10217,10 @@ header.blog {
   background-image: url("../assets/img/header/blog.jpg");
   opacity: .9;
 }
+header.hiring {
+  background-image: url("../assets/img/header/hiring.jpg");
+  opacity: .9;
+}
 
 @media (min-width: 768px) {
   header.masthead {
@@ -10257,6 +10261,7 @@ header.blog {
   justify-content: center;
   opacity: 1;
   transition: opacity ease-in-out 0.25s;
+  margin-bottom: 1rem;
 }
 #blog .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
   font-size: 1rem;

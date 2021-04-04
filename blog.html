@@ -27,18 +27,18 @@
                     {% for post in site.posts %}
                         
                         
-                        <div class="col-lg-4 col-sm-6 mb-4">
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-4">
                             <div class="portfolio-item">
                                 <a class="portfolio-link" data-toggle="modal" href="#portfolioModal{{i}}"> 
                                     <img class="img-blog" src="assets/img/blog/{{post.image}}" alt="{{post.alt}}" /> 
                                     <div class="row">
-                                        <div class="col-lg-9">
+                                        <div class="col-lg-9 col-md-9 col-sm-9">
                                             <div class="portfolio-caption">
                                                 <div class="portfolio-caption-heading text-muted">{{ post.title }}</div>
                                                 <div class="portfolio-caption-subheading text-muted">{{ post.date | date_to_long_string }}</div>
                                             </div>
                                         </div>    
-                                        <div class="col-lg-3">
+                                        <div class="col-lg-3 col-md-3 col-sm-3 mb-4">
                                             <div class="portfolio-hover">
                                                 <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                             </div>
