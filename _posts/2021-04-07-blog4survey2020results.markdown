@@ -8,7 +8,7 @@ alt: lighter foodprint, blog
 ---
 <h2>“What Matters to You in Restaurants & Menus?” 2020 Survey Results</h2>
 
-In late 2020, we conducted a public online survey with close to 300 residents in Lower Mainland to learn more about what matters to them in restaurants and menus. 
+In late 2020, we conducted a public online survey with close to 300 residents in the Lower Mainland to learn more about what matters to them in restaurants and menus. 
 
 <h4>About the Surveyed Population</h4>
 The largest age group of the respondents were between the ages of 18 to 24 (42%), followed by ages 25-34 (33%). Over 50% of respondents have a dietary restriction, defined as eating a vegan, vegetarian, pescatarian or flexitarian diet (figure 1). When cross examining the two tables, the younger the age bracket, the less percentage of omnivores there are. 
@@ -19,7 +19,7 @@ The largest age group of the respondents were between the ages of 18 to 24 (42%)
 <h4>What Matters to Customers When Selecting a Restaurant and Ordering</h4>
 <img class="img-blog d-block mx-auto" src="assets/img/blog/004-SurveyResults1.png" alt="lighter foodprint, blog, survey, 2020" />
 
-<h4>What matters when choosing what to order on the menu</h4>
+<h4>What Matters When Choosing What to Order on the Menu</h4>
 <img class="img-blog d-block mx-auto" src="assets/img/blog/004-SurveyResults2.png" alt="lighter foodprint, blog, survey, 2020" />
 
 This is a surprisingly positive result because it shows that people are actively factoring sustainable, local, and organic options into their decision-making. Besides offering delicious meals at a reasonable price, people are voicing that they want to have sustainable, local, and organic options over online recommendations, speed and convenience.
