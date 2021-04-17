@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lessons from Bill Gates"
-date:   2021-04-15 00:00:00 -0800
+date:   2021-04-16 00:00:00 -0800
 categories: jekyll update
 image: 005-BookAvoidClimateDisaster.png
 alt: lighter foodprint, blog
