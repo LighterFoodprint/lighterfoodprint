@@ -28,3 +28,7 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "webrick"
+
+gem "kramdown", ">= 2.3.1"
+gem "rexml", ">= 3.2.5"
+gem "nokogiri", ">= 1.11.4"
